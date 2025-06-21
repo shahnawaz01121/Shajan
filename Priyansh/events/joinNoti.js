@@ -56,7 +56,7 @@ ${global.config.PREFIX}🌺🍃Ƈɑɭɭɑɗ føɽ Ɑɳɣ ɪʂʂuɛ
 A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B̸O̸T̸ D̸E̸V̸A̸L̸O̸P̸A̸R̸....💙🍫
 
 💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞·÷±‡±𝙎𝙃𝘼𝙉𝙐±‡±÷·:☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝕊𝕙𝕒𝕙𝕟𝕒𝕨𝕒𝕫 𝕤𝕚𝕕𝕕🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/share/19RdPELWiE/\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @Priyanshrajput😇 
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @shahnawaz_sidd47😇 
 
 
 ✮☸✮
@@ -72,7 +72,7 @@ A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B�
 ✮┼❄️┼✮
 
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓🌸✦✧✧✧✧✰🍒🦋⃟≛⃝𝑺𝒂𝒋𝒂𝒏 ≛⃝❤️࿐🌿✰✧✧✧✧✦🌸  ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
-`, attachment: fs.createReadStream(__dirname + "/cache/999")} ,threadID));
+`, attachment: fs.createReadStream(__dirname + "/cache/999.mp4")} ,threadID));
     }
     else {
         try {
