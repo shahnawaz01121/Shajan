@@ -35,7 +35,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
 	const name = global.data.userName.get(event.logMessageData.leftParticipantFbId) || await Users.getNameUser(event.logMessageData.leftParticipantFbId);
 	const type = (event.author == event.logMessageData.leftParticipantFbId) ? "leave" : "managed";
 	const path = join(__dirname, "events", "777.mp4");
-	const pathGif = join(path, `${threadID}777.mp4`);
+	const pathGif = join(path, `${threadID}aaa.mp4`);
 	var msg, formPush
 
 	if (existsSync(path)) mkdirSync(path, { recursive: true });
