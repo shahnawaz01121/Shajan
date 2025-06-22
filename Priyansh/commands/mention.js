@@ -13,7 +13,7 @@ module.exports.handleEvent = function({ api, event }) {
     var aid = ["100083214197291"];
     for (const id of aid) {
     if ( Object.keys(event.mentions) == id) {
-      var msg = ["Wo Busy H mujhe Bolo Kya Bolna H?", "Kya Hua Boss ko q Bula Rhe Ho?", "Wo Shayad Busy hoga", "Shanu Toh Chala gaya","shanu ko bar bar pareshan mat karo","i love bolo pahele fir ayega shanu 💋];
+      var msg = ["Wo Busy H mujhe Bolo Kya Bolna H?", "Kya Hua Boss ko q Bula Rhe Ho?", "Wo Shayad Busy hoga", "Shanu Toh Chala gaya","shanu ko bar bar pareshan mat karo","i love bolo pahele fir ayega shanu💋"];
       return api.sendMessage({body: msg[Math.floor(Math.random()*msg.length)]}, event.threadID, event.messageID);
     }
     }}
